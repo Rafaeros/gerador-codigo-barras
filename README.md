@@ -1,10 +1,3 @@
-RA
-Crie um readme markdown para o mesmo repositorio porem com python venv e requirements.txt remova o pyproject e poetry
-
-
-markdown
-
-Copy
 # Gerador de Código de Barras
 
 Um gerador de códigos de barras simples e eficiente desenvolvido em Python.
